@@ -1,6 +1,6 @@
 # Entrega GS - Blue Future
 
-Este é uma entrega da Glbal Solution da Materia de Edge Computing da FIAP , onde foi desenvolvido um sistema de monitoramento do nivel de agua dos mares e oceanos, utlizando a placa ESP32.
+Este é uma entrega da Global Solution da Materia de Edge Computing da FIAP , onde foi desenvolvido um sistema de monitoramento do nivel de agua dos mares e oceanos, utlizando a placa ESP32.
 
 ## Video Explicativo
 
